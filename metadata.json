@@ -1,0 +1,5 @@
+{
+  "name": "无限维基",
+  "description": "一个由AI驱动的、可无限探索的维基。点击任意汉字即可生成新的词条，在相互关联的概念网络中穿梭。",
+  "requestFramePermissions": []
+}
